@@ -7,9 +7,9 @@ pydantic-settings==2.3.4
 email-validator==2.1.1
 
 # --- Database (MongoDB) ---
-motor==3.4.0
+motor==3.7.1
 pymongo[SRV]==4.13.2
-Certifi==2025.1.31
+Certifi>=2025.1.31
 
 # --- Auth ---
 python-jose[cryptography]==3.3.0
